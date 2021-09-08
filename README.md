@@ -22,12 +22,12 @@ Read me!
 		big.sortcity(array);
 		System.out.println("");
 		
-//		System.out.print("---Even or Odd number---");
-//		big.evenAodd(num);
-//		
-//		System.out.println("");
-//		System.out.println("---Sorting number---");
-//		big.sort(num);
+		//System.out.print("---Even or Odd number---");
+		//big.evenAodd(num);
+		
+		//System.out.println("");
+		//System.out.println("---Sorting number---");
+		//big.sort(num);
 		
 	}
   
